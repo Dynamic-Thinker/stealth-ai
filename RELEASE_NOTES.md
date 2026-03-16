@@ -1,4 +1,4 @@
-## 🚀 Stealth AI Suite v4.0.0
+## 🚀 Stealth AI Suite v4.1.0
 
 > **The first unified Tauri release of Stealth AI — rebuilt from the ground up for performance, stability, and true stealth.**
 
@@ -30,9 +30,9 @@
 
 | File | Description |
 |------|-------------|
-| `StealthAI-Setup-4.0.0.exe` | **Recommended** — Full installer for both apps |
-| `ai-app-portable-4.0.0.exe` | AI App — portable, no install needed |
-| `auth-manager-portable-4.0.0.exe` | Auth Manager — portable, no install needed |
+| `StealthAI-Setup-4.1.0.exe` | **Recommended** — Full installer for both apps |
+| `ai-app-portable-4.1.0.exe` | AI App — portable, no install needed |
+| `auth-manager-portable-4.1.0.exe` | Auth Manager — portable, no install needed |
 
 ---
 
