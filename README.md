@@ -1,4 +1,4 @@
-## 🚀 Stealth AI Suite v4.0.0
+## 🚀 Stealth AI Suite v4.0.1
 
 > **The first unified Tauri release of Stealth AI — rebuilt from the ground up for performance, stability, and true stealth.**
 
