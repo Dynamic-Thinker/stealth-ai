@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnlQR1VMRUpzWU9yTlhaSDB4Q0VKRUJUMXJORVNyOVZSdVpoV0ZoTmVpZTI5b1l4WEcyaDBQdHRaU25ycEpQTGxzeG1UdGtMbkE1cHNEVk45UXFCT094emg2SENWYmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjI3MDIyCWZpbGU6U3RlYWx0aEFJLVNldHVwLTQuMS4yLmV4ZQoyTEVLZ1p4dC93MDF4T3VnM1U4cnNQZWRYUHNHTVBXYWZUK29DaEMxRFYxeHhwbXJzNE9SaTk2bHdWc3dkeS8reWd4Z0FvV1U1c1ZUNS9MT3lGc1FDQT09Cg==",
-                                             "url":  "https://github.com/Dynamic-Thinker/stealth-ai/releases/download/v4.1.2/StealthAI-Setup-4.1.2.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnlQR1VMRUpzWUlZenJ4UEhkNWNOUVdYeTJ2R0V5SHY1cktjYlMrMTBHYm9CemlaNy9HOHVxMmtQLzFZTDFGanBSeVlUM3lEVGwwV2ZlZU8zc3p6dlFvaHBXaFd6QUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjMxNDM2CWZpbGU6U3RlYWx0aEFJLVNldHVwLTQuMi4wLmV4ZQpwSzVIdVAzVG1WTDJsZ0FCVTlKT0dlazQ0TGcrVVhxNXRXbnBVMVpDT0JNcmlCTEpmblFZUGVoQllFd2tWeUpZK3p3WmxPNHdUdG1NY1hpQUpnSndBUT09Cg==",
+                                             "url":  "https://github.com/Dynamic-Thinker/stealth-ai/releases/download/v4.2.0/StealthAI-Setup-4.2.0.exe"
                                          }
                   },
-    "pub_date":  "2026-03-27T21:27:03Z",
-    "version":  "v4.1.2",
-    "notes":  "Stealth AI Suite v4.1.2"
+    "pub_date":  "2026-03-27T22:40:36Z",
+    "version":  "v4.2.0",
+    "notes":  "Stealth AI Suite v4.2.0"
 }
